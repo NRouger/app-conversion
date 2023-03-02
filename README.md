@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run the app, download the zip and
+> open terminal, and find the path
+> /from/file/path open folder
+> "code ." to open code on VisualStudioC
+> Then run "rails server" on terminal to open the http://localhost:3000
 
 Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version 3.1.2p20
+* Rails version 7.0.4.2
